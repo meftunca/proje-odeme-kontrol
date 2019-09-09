@@ -1,7 +1,8 @@
 {
   "2px":{
     "startPayDate":1567350715850,
-    "lastPayDate":1567900800000,
-    "status":"para bekleniyor"
+    "lastPayDate":1568332800000,
+    "status":"para bekleniyor",
+    "pay":false
   }
 }
